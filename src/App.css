@@ -21,7 +21,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 26px;
+  font-size: 28px;
   background-color: rgb(0, 115, 255);
 }
 .inputHeaderText{
