@@ -1,7 +1,7 @@
 import './App.css';
 import HeaderBlock from './components/HeaderBlock';
 import Users from './components/Users';
-import React,{useEffect,memo,useMemo,useState,useRef,useCallback} from 'react'
+import React,{useMemo,useState,useRef,useCallback} from 'react'
 
 
 function App() {
