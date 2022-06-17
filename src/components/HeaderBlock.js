@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 function HeaderBlock({headerText}) {
   useEffect(()=>{
     console.log("Header block rendered..")
-  })
+})
 
   return (
     <>
@@ -12,6 +12,7 @@ function HeaderBlock({headerText}) {
     </>
   )
 }
+
 export default memo(HeaderBlock)
   
 
